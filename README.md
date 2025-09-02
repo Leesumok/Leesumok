@@ -1,5 +1,5 @@
 
-````kotlin` 
+```kotlin 
 data class Developer(
     val name: String = "이수목",
     val role: String = "Backend Developer", 
@@ -13,5 +13,5 @@ data class Developer(
         )
     }
 }
-`````
+```
     
