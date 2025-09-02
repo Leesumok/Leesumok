@@ -1,4 +1,5 @@
-<div align="lefr">
+
+<div align="left">
 <h2>🧐 Introduce</h2>
 <div>
     
@@ -18,8 +19,12 @@ data class Developer(
 }
 ```
     
+</div>
+</div>
+
 ---
-<div align="lefr">
+
+<div align="left">
 <h2>🛠️ Tech Stacks</h2>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -50,8 +55,14 @@ data class Developer(
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
 </div>
 </div>
+
+---
+
 <div align="left">
 <h2>🏅 Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Leesumok&custom_title=clementine%20Github%20Stat&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leesumok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Leesumok&custom_title=Leesumok%20Github%20Stat&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=45,87CEEB,FFB347&title_color=2F4F4F&text_color=2F4F4F&icon_color=8A2BE2&locale=en&hide_border=false" height="180" alt="stats graph" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leesumok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=45,87CEEB,FFB347&title_color=2F4F4F&text_color=2F4F4F&hide_border=false" height="180" alt="languages graph" />
+</p>
 </div>
